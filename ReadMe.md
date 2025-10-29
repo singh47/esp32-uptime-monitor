@@ -1,6 +1,7 @@
 # ESP32 Uptime Monitor
 
 A simple uptime monitoring solution for ESP32 with TFT touchscreen display. Monitor multiple websites in real-time with visual status indicators.
+<br> Project Link: https://github.com/singh47/esp32-uptime-monitor
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-ESP32-green.svg)

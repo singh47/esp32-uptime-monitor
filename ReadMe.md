@@ -6,6 +6,8 @@ A simple uptime monitoring solution for ESP32 with TFT touchscreen display. Moni
 ![Platform](https://img.shields.io/badge/platform-ESP32-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+![uptime_monitor](https://github.com/user-attachments/assets/12cf8f39-5652-46c9-83c1-6ec7b6d505a0)
+
 ## Features
 
 - **Multi-Website Monitoring** - Monitor up to 6 websites simultaneously
@@ -53,6 +55,7 @@ cd esp32-uptime-monitor
 
 ### 2. Install and Configure TFT_eSPI Library
 #### Install
+<img width="652" height="526" alt="select-TFT_eSPI-arduino" src="https://github.com/user-attachments/assets/9cfd391c-a311-48b6-9506-878d97221a50" />
 
 
 #### Configure
@@ -221,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 If you find this project helpful, please consider:
-- Starring the repository ⭐
+- Stars!
 - Contributing improvements
 - Reporting bugs and issues
 
